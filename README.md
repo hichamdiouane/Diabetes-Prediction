@@ -6,11 +6,11 @@ This project implements a machine learning solution to predict diabetes risk in 
 ## Screenshots
 
 ### Web Application Interface
-![Streamlit App Main Interface](/screenshots/main_interface.png)
+![Streamlit App Main Interface](/screenshots/main_interface.jpeg)
 
 ### Prediction Results
-![Diabetes Low Risk Prediction](/screenshots/prediction_result1.png)
-![Diabetes High Risk Prediction](/screenshots/prediction_result2.png)
+![Diabetes Low Risk Prediction](/screenshots/prediction_result1.jpeg)
+![Diabetes High Risk Prediction](/screenshots/prediction_result2.jpeg)
 
 ## Project Structure
 ```
