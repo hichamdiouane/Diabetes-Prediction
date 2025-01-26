@@ -91,6 +91,10 @@ streamlit run app.py
 - streamlit
 - matplotlib
 
+## Deployment
+
+The Diabetes Prediction App is live at: [https://diabetespredic.streamlit.app/]
+
 ## Future Improvements
 - Implement feature importance analysis
 - Add more advanced models (Random Forest, XGBoost)
