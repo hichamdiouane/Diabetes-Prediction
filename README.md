@@ -3,8 +3,20 @@
 ## Overview
 This project implements a machine learning solution to predict diabetes risk in patients based on various health metrics. The model is trained on the Diabetes dataset from Kaggle and is deployed as a web application using Streamlit for easy user interaction.
 
+## Screenshots
+
+### Web Application Interface
+![Streamlit App Main Interface](/screenshots/main_interface.png)
+
+### Prediction Results
+![Diabetes Low Risk Prediction](/screenshots/prediction_result1.png)
+![Diabetes High Risk Prediction](/screenshots/prediction_result2.png)
+
 ## Project Structure
 ```
+├── screenshots/               # Directory for application screenshots
+│   ├── main_interface.png
+│   └── prediction_result.png
 ├── Diabetes Prediction.ipynb   # Main notebook with data analysis and model training
 ├── README.md                  # Project documentation
 ├── app.py                     # Streamlit web application
